@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="634e8705-defc-40de-8236-d076b5972085" name="Changes" comment="Revert &quot;Initial Commit&quot;&#10;&#10;This reverts commit fbae06fa">
-      <change afterPath="$PROJECT_DIR$/.idea/appium_python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AccessingContext.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Alerts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Locator1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Locator2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewContact.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RecordScript.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScrollIntoView.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TapAndLongPress.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UiSelector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firstDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phoneCall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/appium_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/appium_python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alerts.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alerts.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,40 +43,43 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2lQoNZBobJVf11qXhI3qfvlFk1z" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Notification.DisplayName-DoNotAsk-Vcs Important Messages&quot;: &quot;VCS important messages&quot;,
-    &quot;Notification.DoNotAsk-Vcs Important Messages&quot;: &quot;true&quot;,
-    &quot;Python.AccessingContext.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Alerts.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Locator2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Locators1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.NewContact.executor&quot;: &quot;Run&quot;,
-    &quot;Python.RecordScript.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ScrollIntoView.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TapAndLongPress.executor&quot;: &quot;Run&quot;,
-    &quot;Python.UiAutomator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.VerticalScrolling.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Wait.executor&quot;: &quot;Run&quot;,
-    &quot;Python.firstDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.phoneCall.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/PycharmProjects/appium_python&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Notification.DisplayName-DoNotAsk-Vcs Important Messages": "VCS important messages",
+    "Notification.DoNotAsk-Vcs Important Messages": "true",
+    "Python tests.Python tests for test_demo.test_demo1.executor": "Run",
+    "Python.AccessingContext.executor": "Run",
+    "Python.Alerts.executor": "Run",
+    "Python.Locator2.executor": "Run",
+    "Python.Locators1.executor": "Run",
+    "Python.NewContact.executor": "Run",
+    "Python.RecordScript.executor": "Run",
+    "Python.ScrollIntoView.executor": "Run",
+    "Python.TapAndLongPress.executor": "Run",
+    "Python.UiAutomator.executor": "Run",
+    "Python.VerticalScrolling.executor": "Run",
+    "Python.Wait.executor": "Run",
+    "Python.firstDemo.executor": "Run",
+    "Python.phoneCall.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/HP/PycharmProjects/appium_python",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
     ]
   }
-}</component>
+}]]></component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="appium_python" is-module-sdk="true">
@@ -99,7 +88,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.AccessingContext">
+  <component name="RunManager" selected="Python tests.Python tests for test_demo.test_demo1">
     <configuration name="AccessingContext" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="appium_python" />
       <option name="ENV_FILES" value="" />
@@ -166,28 +155,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="NewContact" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="appium_python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NewContact.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="TapAndLongPress" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="appium_python" />
       <option name="ENV_FILES" value="" />
@@ -210,13 +177,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_demo.test_demo1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="appium_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_demo.test_demo1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.AccessingContext" />
+      <item itemvalue="Python.Alerts" />
+      <item itemvalue="Python.Locator2" />
+      <item itemvalue="Python.TapAndLongPress" />
+      <item itemvalue="Python tests.Python tests for test_demo.test_demo1" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_demo.test_demo1" />
         <item itemvalue="Python.AccessingContext" />
         <item itemvalue="Python.Alerts" />
         <item itemvalue="Python.Locator2" />
         <item itemvalue="Python.TapAndLongPress" />
-        <item itemvalue="Python.NewContact" />
       </list>
     </recent_temporary>
   </component>
